@@ -2,9 +2,5 @@
   "development": {
     "apiUrl": "http://localhost:2368",
     "contentApiKey": "73c392af80ae77970856076e7f"
-  },
-  "production": {
-    "apiUrl": "https://bhanusBlog.serveo.net",
-    "contentApiKey": "73c392af80ae77970856076e7f"
   }
 }
